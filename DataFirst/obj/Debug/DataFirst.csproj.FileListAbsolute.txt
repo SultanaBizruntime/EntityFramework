@@ -1,0 +1,10 @@
+c:\users\bizruntime\documents\visual studio 2015\Projects\DataFirst\DataFirst\bin\Debug\DataFirst.exe.config
+c:\users\bizruntime\documents\visual studio 2015\Projects\DataFirst\DataFirst\bin\Debug\DataFirst.exe
+c:\users\bizruntime\documents\visual studio 2015\Projects\DataFirst\DataFirst\bin\Debug\DataFirst.pdb
+c:\users\bizruntime\documents\visual studio 2015\Projects\DataFirst\DataFirst\bin\Debug\EntityFramework.dll
+c:\users\bizruntime\documents\visual studio 2015\Projects\DataFirst\DataFirst\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\bizruntime\documents\visual studio 2015\Projects\DataFirst\DataFirst\bin\Debug\EntityFramework.xml
+c:\users\bizruntime\documents\visual studio 2015\Projects\DataFirst\DataFirst\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\bizruntime\documents\visual studio 2015\Projects\DataFirst\DataFirst\obj\Debug\DataFirst.csprojResolveAssemblyReference.cache
+c:\users\bizruntime\documents\visual studio 2015\Projects\DataFirst\DataFirst\obj\Debug\DataFirst.exe
+c:\users\bizruntime\documents\visual studio 2015\Projects\DataFirst\DataFirst\obj\Debug\DataFirst.pdb
